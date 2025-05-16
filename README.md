@@ -17,3 +17,7 @@ Thus:
 # Merging
 
 And a little conflict just for good measure.
+
+Or perhaps not merging... but another branch/bookmark.
+
+... and just another one for good measure.
