@@ -32,4 +32,4 @@ Or perhaps not merging... but another branch/bookmark.
 
 ... with a new changeset
 
-# changed in "conflict"
+# Changed in "conflict_two"
