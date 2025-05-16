@@ -31,3 +31,5 @@ Or perhaps not merging... but another branch/bookmark.
 ... and just another one for good measure.
 
 ... with a new changeset
+
+# Changed in "conflict_two"
