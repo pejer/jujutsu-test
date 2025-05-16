@@ -16,15 +16,13 @@ Thus:
 
 # Merging
 
-+And a little conflict just for good measure.
-+
- Or perhaps not merging... but another branch/bookmark.
+And a little conflict just for good measure.
+
+Or perhaps not merging... but another branch/bookmark.
 
 ... and just another one for good measure
--
 
--And a little conflict just for good measure.
-+++++++ Contents of side #3
+And a little conflict just for good measure.
 
 And a little conflict just for good measure.
 
